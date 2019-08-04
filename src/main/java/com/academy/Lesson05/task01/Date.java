@@ -2,10 +2,12 @@ package com.academy.Lesson05.task01;
 
 
 import com.academy.Lesson06.enamTask.DifFormates;
+import com.academy.Lesson06.enamTask.MonthsEnum;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
+import java.util.List;
 import java.util.Objects;
 
 
@@ -218,7 +220,6 @@ public class Date extends Months {
     }
 
 
-
     //НЕ РАБОТАЕТ
     public void print(DifFormates.DateFormat format) {
         String newFormat = format.getFormat();
@@ -231,12 +232,32 @@ public class Date extends Months {
             java.util.Date date = myDateFormat.parse(currentDate); //получили дату
             myDateFormat.applyPattern(newFormat); //изменили шаблон
             currentDate = myDateFormat.format(date);     //получили дату в нужном формате
-            System.out.println(currentDate);			 //вывели результат на печать
+            System.out.println(currentDate);             //вывели результат на печать
         } catch (ParseException e) {
             System.out.println("Invalid Date Parser Exception");
         }
     }
 
+    //ИЗ-ЗА ПЕРЕОБПЕРЕДЕННОГО ТУСТРИНГ НИЧЕГО НЕ РАБОТАЕТ!
+    
+    public String printTest(Date yourDate, DifFormates.DateFormat yourFormat) {
+
+        if (yourFormat.name().equals(DifFormates.DateFormat.valueOf("RU").name()))
+            return (changeTypeOfString(yourDate.day) + "." + changeTypeOfString(yourDate.month) + "." + yourDate.year);
+        else if (yourFormat.name().equals(DifFormates.DateFormat.valueOf("USA").name()))
+            return (changeTypeOfString(yourDate.month) + "-" + changeTypeOfString(yourDate.day) + "-" + yourDate.year);
+        else if (yourFormat.name().equals(DifFormates.DateFormat.valueOf("ENG").name()))
+            return (changeTypeOfString(yourDate.day) + "-" + changeTypeOfString(yourDate.month) + "-" + yourDate.year);
+        else if (yourFormat.name().equals(DifFormates.DateFormat.valueOf("UK").name()))
+            return (changeTypeOfString(yourDate.day) + "/" + changeTypeOfString(yourDate.month) + "/" + yourDate.year);
+        else if (yourFormat.name().equals(DifFormates.DateFormat.valueOf("CUSTOM").name()))
+            return (changeTypeOfString(yourDate.day) + " " + selectCurrentMonth(yourDate.month) + " " + yourDate.year + "г");
+        return "";
+    }
+
+    public String selectCurrentMonth(int a) {
+        return MonthsEnum.AllMonths.getNameByOrd(a);
+    }
 
 
 }
