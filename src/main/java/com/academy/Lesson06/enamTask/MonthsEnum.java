@@ -31,7 +31,7 @@ public class MonthsEnum {
         }
 
         public static String getNameByOrd(int ord) {
-            AllMonths db = AllMonths.values()[ord];
+            AllMonths db = AllMonths.values()[ord-1];
             String a = db.getName();
             return a;
         }
