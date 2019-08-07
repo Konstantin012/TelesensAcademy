@@ -4,6 +4,8 @@ package com.academy.Lesson06.polimorph;
 import java.awt.*;
 
 public class HomeTask {
+
+
     public static void main(String[] args) {
         Component[] components = new Component[10];
         components[0] = new Label();
