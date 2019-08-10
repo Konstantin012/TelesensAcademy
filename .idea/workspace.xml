@@ -2,7 +2,94 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab0e13de-e2ea-438a-bee0-3bfa5e9d9471" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/task/ComparatorForNumberFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/task/ComparatorForNumberThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/task/NumberFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/task/NumberThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/task/NumberTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/task/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/task/numberOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/exeptions/IllegalDateException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/five/NoSpaceAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/five/SpaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/one/RangeCheckAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/one/TrueOrFalse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/three/TestUpperCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/three/ToUpperCaseAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/two/FactorAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/two/ForFactorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson01/PresTaskExtended/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson01/PresTaskExtended/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson01/PresTaskExtended/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson01/PresTaskExtended/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson01/PresentationTask/PresentationExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson01/PresentationTask/PresentationExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson01/Task09/NinthTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson01/Task09/NinthTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson01/Task09/NinthTaskShort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson01/Task09/NinthTaskShort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson01/Task10/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson01/Task10/Task10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson02/Exercise1/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson02/Exercise1/ArrayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson02/Exercise1/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson02/Exercise1/Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson02/Exercise1/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson02/Exercise1/Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson02/Task15/FigureIsSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson02/Task15/FigureIsSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson02/Task16/Palindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson02/Task16/Palindrom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson02/task01/ThreeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson02/task01/ThreeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson02/task02/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson02/task02/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson02/task11/ArraysClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson02/task11/ArraysClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson02/task7/TwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson02/task7/TwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson03/task04/Task04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson03/task04/Task04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson03/task05/Task05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson03/task05/Task05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson03/task06/Task06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson03/task06/Task06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson04/task01/SomeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson04/task01/SomeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson04/task01/TestSomeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson04/task01/TestSomeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson04/task03a/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson04/task03a/Currency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson04/task03a/TestCurrency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson04/task03a/TestCurrency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson04/task05/DateMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson04/task05/DateMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson04/task05/TestDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson04/task05/TestDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson05/task01/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson05/task01/Date.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson05/task01/DateTestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson05/task01/DateTestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson05/task01/DateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson05/task01/DateTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson05/task01/Months.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson05/task01/Months.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson06/enamTask/DifFormates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson06/enamTask/DifFormates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson06/enamTask/MonthsEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson06/enamTask/MonthsEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson06/enamTask/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson06/enamTask/Task01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson06/polimorph/HomeTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson06/polimorph/HomeTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson06/polimorph/component/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson06/polimorph/component/Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson06/polimorph/component/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson06/polimorph/component/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/academy/Lesson06/polimorph/component/Label.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/academy/lesson06/polimorph/component/Label.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson01/PresTaskExtended/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson01/PresTaskExtended/Data.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson01/PresTaskExtended/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson01/PresTaskExtended/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson01/PresentationTask/PresentationExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson01/PresentationTask/PresentationExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson01/Task09/NinthTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson01/Task09/NinthTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson01/Task09/NinthTaskShort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson01/Task09/NinthTaskShort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson01/Task10/Task10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson01/Task10/Task10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson02/Exercise1/ArrayDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson02/Exercise1/ArrayDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson02/Exercise1/Operators.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson02/Exercise1/Operators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson02/Exercise1/Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson02/Exercise1/Variables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson02/Task15/FigureIsSquare.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson02/Task15/FigureIsSquare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson02/Task16/Palindrom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson02/Task16/Palindrom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson02/task01/ThreeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson02/task01/ThreeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson02/task02/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson02/task02/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson02/task11/ArraysClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson02/task11/ArraysClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson02/task7/TwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson02/task7/TwoNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson03/task04/Task04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson03/task04/Task04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson03/task05/Task05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson03/task05/Task05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson03/task06/Task06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson03/task06/Task06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson04/task01/SomeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson04/task01/SomeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson04/task01/TestSomeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson04/task01/TestSomeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson04/task03a/Currency.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson04/task03a/Currency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson04/task03a/TestCurrency.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson04/task03a/TestCurrency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson04/task05/DateMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson04/task05/DateMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson04/task05/TestDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson04/task05/TestDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson05/task01/Date.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson05/task01/Date.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson05/task01/DateTestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson05/task01/DateTestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson05/task01/DateTime$Time.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson05/task01/DateTime$Time.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson05/task01/DateTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson05/task01/DateTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson05/task01/Months.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson05/task01/Months.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson06/enamTask/Task01$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson06/enamTask/Task01$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson06/enamTask/Task01$WeekDays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson06/enamTask/Task01$WeekDays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson06/enamTask/Task01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson06/enamTask/Task01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson06/polimorph/HomeTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson06/polimorph/HomeTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson06/polimorph/component/Component.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson06/polimorph/component/Component.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson06/polimorph/component/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson06/polimorph/component/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/academy/Lesson06/polimorph/component/Label.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/academy/Lesson06/polimorph/component/Label.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,22 +106,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson07/homeTask/sortHomeTask/Sort.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/five/NoSpaceAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="80">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson07/homeTask/sortHomeTask/comparator/ComprByLastLetter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/five/SpaceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+            <state relative-caret-position="176">
+              <caret line="11" column="58" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/one/TrueOrFalse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -44,6 +137,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -51,6 +145,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>month</find>
+      <find>sort</find>
     </findStrings>
     <dirStrings>
       <dir>D:\Java\MAVEN\src\main\java\com\academy\Lesson06\task01</dir>
@@ -63,21 +158,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/academy/Lesson06/task01/Months.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/academy/Lesson06/task01/Date.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/academy/Lesson06/task01/DateTestMain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/academy/Lesson06/task01/DateTime.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/academy/Lesson05/task01/DateTime.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/academy/Lesson06/enamTask/enamTask/Task01.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/academy/Lesson06/Task01.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/academy/Lesson06/enamTask/Task01.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/academy/Lesson06/polimorph/InheritedDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/academy/Lesson06/enamTask/Task04.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/academy/Lesson06/enamTask/DifFormates.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/academy/Lesson05/task01/Months.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/academy/Lesson05/task01/Date.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/academy/Lesson05/task01/DateTestMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/academy/Lesson06/enamTask/MonthsEnum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/academy/Lesson06/polimorph/HomeTask.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/academy/Lesson07/String3LetterComparator.java" />
@@ -96,7 +182,33 @@
         <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson07/homeTask/sortHomeTask/comparator/ComprToIgnoreCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson07/homeTask/sortHomeTask/comparator/ComprByLenght.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson07/homeTask/sortHomeTask/Sort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson07/homeTask/component/Button.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson07/homeTask/component/VisualComponent.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson07/homeTask/sortHomeTask/comparator/ComprByLastLetter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/task/numberOne.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/task/NumberTwo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/task/NumberThree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/task/ComparatorForNumberThree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/lyambda/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/task/ComparatorForNumberFour.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/task/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/task/NumberFour.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/Lesson05/task01/DateTestMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/Lesson05/task01/Date.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/exeptions/IllegalDateException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/Lambda/RangeCheck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/Lambda/TrueOrFalseThefirstTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/Lambda/TrueOrFalse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/Lambda/one/TrueOrFalse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/two/FactorAPI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/three/ToUpperCaseAPI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/three/TestUpperCase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/two/ForFactorial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/five/NoSpaceAPI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/one/TrueOrFalse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/five/SpaceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/academy/test.java" />
       </list>
     </option>
   </component>
@@ -124,8 +236,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="99" />
-    <option name="y" value="-10" />
+    <option name="x" value="157" />
+    <option name="y" value="-11" />
     <option name="width" value="1248" />
     <option name="height" value="813" />
   </component>
@@ -136,6 +248,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,27 +296,26 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/academy/lesson07/homeTask/component" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Java\MAVEN\src\main\java\com\academy\Lesson06\polimorph" />
-      <recent name="D:\Java\MAVEN\src\main\java" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java\MAVEN\src\main\java\com\academy\Lesson04\track" />
       <recent name="D:\Java\MAVEN\src\main\java\com\academy\Lesson06\polimorph\component" />
       <recent name="D:\Java\MAVEN\src\main\java\com\academy\Lesson06\polimorph" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\MAVEN\src\main\java\com\academy\lesson07\homeTask\component" />
+      <recent name="D:\Java\MAVEN\src\main\java\com\academy\Lesson06\polimorph" />
+      <recent name="D:\Java\MAVEN\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -217,13 +330,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sort">
-    <configuration name="CurrentString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.academy.lesson07.homeTask.CurrentString" />
+  <component name="RunManager" selected="Application.test">
+    <configuration name="ForFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.academy.lesson08.homeWork.lambda.two.ForFactorial" />
       <module name="MAVEN" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.academy.lesson07.homeTask.*" />
+          <option name="PATTERN" value="com.academy.lesson08.homeWork.lambda.two.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,12 +344,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateTestMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.academy.Lesson05.task01.DateTestMain" />
+    <configuration name="SpaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.academy.lesson08.homeWork.lambda.five.SpaceTest" />
       <module name="MAVEN" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.academy.Lesson05.task01.*" />
+          <option name="PATTERN" value="com.academy.lesson08.homeWork.lambda.five.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,12 +357,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.academy.Lesson06.polimorph.HomeTask" />
+    <configuration name="TestUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.academy.lesson08.homeWork.lambda.three.TestUpperCase" />
       <module name="MAVEN" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.academy.Lesson06.polimorph.*" />
+          <option name="PATTERN" value="com.academy.lesson08.homeWork.lambda.three.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,12 +370,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.academy.lesson07.homeTask.sortHomeTask.Sort" />
+    <configuration name="TrueOrFalse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.academy.lesson08.homeWork.lambda.one.TrueOrFalse" />
       <module name="MAVEN" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.academy.lesson07.homeTask.sortHomeTask.*" />
+          <option name="PATTERN" value="com.academy.lesson08.homeWork.lambda.one.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,12 +383,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.academy.lesson07.сlassTask.sort.SortDemo" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.academy.test" />
       <module name="MAVEN" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.academy.lesson07.сlassTask.sort.*" />
+          <option name="PATTERN" value="com.academy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,19 +397,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DateTestMain (1)" />
-      <item itemvalue="Application.HomeTask" />
-      <item itemvalue="Application.CurrentString" />
-      <item itemvalue="Application.SortDemo" />
-      <item itemvalue="Application.Sort" />
+      <item itemvalue="Application.TrueOrFalseThefirstTask" />
+      <item itemvalue="Application.ForFactorial" />
+      <item itemvalue="Application.TestUpperCase" />
+      <item itemvalue="Application.SpaceTest" />
+      <item itemvalue="Application.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sort" />
-        <item itemvalue="Application.SortDemo" />
-        <item itemvalue="Application.CurrentString" />
-        <item itemvalue="Application.HomeTask" />
-        <item itemvalue="Application.DateTestMain (1)" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.SpaceTest" />
+        <item itemvalue="Application.TestUpperCase" />
+        <item itemvalue="Application.TrueOrFalseThefirstTask" />
+        <item itemvalue="Application.ForFactorial" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +452,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565210250519</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Interface Component Home TAsk">
+      <created>1565290032405</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1565290032406</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -352,10 +472,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1596" y="-4" width="1288" height="1032" extended-state="6" />
+    <frame x="-4" y="-4" width="1608" height="864" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37318256" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26572528" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -364,8 +484,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32996634" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32918397" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34343433" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30567083" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34301522" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32918397" />
@@ -431,52 +551,35 @@
     <MESSAGE value="second" />
     <MESSAGE value="printTest works finally" />
     <MESSAGE value="Comparator Sort Home Task has done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comparator Sort Home Task has done" />
+    <MESSAGE value="Interface Component Home TAsk" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interface Component Home TAsk" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/academy/Lesson05/task01/Date.java</url>
-          <line>21</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/academy/lesson05/task01/Date.java</url>
+          <line>19</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/academy/Lesson05/task01/Date.java</url>
-          <line>155</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/academy/lesson05/task01/Date.java</url>
+          <line>153</line>
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/academy/Lesson05/task01/DateTestMain.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/academy/Lesson06/enamTask/Task01.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/academy/lesson06/enamTask/Task01.java</url>
           <line>5</line>
           <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/academy/Lesson05/task01/DateTestMain.java</url>
-          <line>10</line>
-          <properties />
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/academy/Lesson06/enamTask/DifFormates.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/academy/lesson06/enamTask/DifFormates.java</url>
           <line>26</line>
           <properties />
           <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/academy/Lesson05/task01/DateTestMain.java</url>
-          <line>8</line>
-          <properties />
-          <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/academy/lesson07/сlassTask/sort/SortDemo.java</url>
@@ -490,6 +593,12 @@
           <properties />
           <option name="timeStamp" value="35" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/academy/lesson05/task01/DateTestMain.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -499,77 +608,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/Lesson01/Task09/NinthTask.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.4/lib/src.zip!/java.base/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="156" column="19" selection-start-line="156" selection-start-column="19" selection-end-line="156" selection-end-column="19" />
-          <folding>
-            <element signature="e#5877#5878#0" expanded="true" />
-            <element signature="e#5913#5914#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.4/lib/src.zip!/java.base/java/lang/Enum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="103" column="21" selection-start-line="103" selection-start-column="21" selection-end-line="103" selection-end-column="21" />
-          <folding>
-            <element signature="e#3105#3106#0" expanded="true" />
-            <element signature="e#3135#3136#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/Lesson06/polimorph/component/Label.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/Lesson06/polimorph/component/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/Lesson06/polimorph/component/Component.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/Lesson06/polimorph/InheritedDemo.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.4/lib/src.zip!/java.desktop/java/awt/Button.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.4/lib/src.zip!/java.desktop/java/awt/Checkbox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="75" column="36" selection-start-line="75" selection-start-column="36" selection-end-line="75" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11.0.4/lib/src.zip!/java.desktop/java/awt/Component.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16">
@@ -595,35 +633,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/Lesson04/task05/DateMain.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson04/task05/DateMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-539">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/Lesson04/task05/TestDate.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson04/task05/TestDate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/Lesson01/PresTaskExtended/Data.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson01/PresTaskExtended/Data.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-400">
           <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/Lesson06/enamTask/Task01.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson06/enamTask/Task01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
           <caret line="33" selection-start-line="33" selection-end-line="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/Lesson05/task01/Months.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson05/task01/Months.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="36" selection-start-line="36" selection-end-line="36" />
@@ -636,7 +674,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/Lesson05/task01/DateTime.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson05/task01/DateTime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
           <caret line="96" column="16" selection-start-line="96" selection-start-column="16" selection-end-line="96" selection-end-column="16" />
@@ -659,14 +697,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/Lesson05/task01/DateTestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/Lesson06/enamTask/MonthsEnum.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson06/enamTask/MonthsEnum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
@@ -681,7 +712,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/Lesson06/enamTask/DifFormates.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson06/enamTask/DifFormates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
@@ -692,59 +723,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/Lesson05/task01/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="242" column="27" selection-start-line="242" selection-start-column="18" selection-end-line="242" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Date#0;class#Date#0" />
-            <element signature="method#Date#1;class#Date#0" />
-            <element signature="method#Date#2;class#Date#0" />
-            <element signature="method#setDay#0;class#Date#0" />
-            <element signature="method#setMonth#0;class#Date#0" />
-            <element signature="method#setYear#0;class#Date#0" />
-            <element signature="method#getDayOfWeek#0;class#Date#0" />
-            <element signature="method#getNumberOfYearsWeek#0;class#Date#0" />
-            <element signature="method#nextDay#0;class#Date#0" />
-            <element signature="method#nextMonth#0;class#Date#0" />
-            <element signature="method#nextYear#0;class#Date#0" />
-            <element signature="method#addDays#0;class#Date#0" />
-            <element signature="method#checkData#0;class#Date#0" />
-            <element signature="method#checkForCheckData#0;class#Date#0" />
-            <element signature="e#4850#4851#0" expanded="true" />
-            <element signature="e#4945#4946#0" expanded="true" />
-            <element signature="method#equals#0;class#Date#0" />
-            <element signature="method#printData#0;class#Date#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.4/lib/src.zip!/java.base/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.4/lib/src.zip!/java.base/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="1433" column="47" selection-start-line="1433" selection-start-column="47" selection-end-line="1433" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/Lesson06/polimorph/HomeTask.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson06/polimorph/HomeTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson07/homeTask/String3LetterComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -800,26 +782,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson07/сlassTask/sort/SortDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="31" selection-start-line="31" selection-end-line="31" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson07/сlassTask/sort/comparator/PersonByAgeComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson07/homeTask/sortHomeTask/comparator/ComprToIgnoreCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -837,10 +799,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson07/сlassTask/sort/comparator/PersonByNameThenByAgeComparator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson07/сlassTask/sort/comparator/StringBy3LetterComparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        <state relative-caret-position="224">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson07/homeTask/component/VisualComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#843#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson07/homeTask/component/Button.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" lean-forward="true" selection-start-column="48" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.4/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="124" column="5" lean-forward="true" selection-start-line="124" selection-start-column="5" selection-end-line="124" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson07/homeTask/component/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson07/сlassTask/sort/SortDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="31" selection-start-line="31" selection-end-line="31" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -850,31 +850,237 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson07/homeTask/CurrentString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="17" column="51" lean-forward="true" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson07/сlassTask/sort/comparator/StringBy3LetterComparator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/task/numberOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        <state relative-caret-position="160">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson07/homeTask/String3LetterComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson07/homeTask/sortHomeTask/Sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="268">
+          <caret line="31" selection-start-line="31" selection-end-line="31" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#1648#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/task/NumberTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson07/homeTask/sortHomeTask/comparator/ComprByLastLetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" selection-start-line="12" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson07/сlassTask/sort/comparator/PersonByAgeComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson07/homeTask/sortHomeTask/comparator/ComprByLastLetter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/task/ComparatorForNumberThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson07/сlassTask/sort/comparator/PersonByNameThenByAgeComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/task/NumberThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/task/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.4/lib/src.zip!/java.base/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/task/NumberFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson08/classWork/task/ComparatorForNumberFour.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson05/task01/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="181" column="70" selection-start-line="181" selection-start-column="70" selection-end-line="181" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Date#0;class#Date#0" />
+            <element signature="method#Date#2;class#Date#0" />
+            <element signature="method#setDay#0;class#Date#0" />
+            <element signature="method#setMonth#0;class#Date#0" />
+            <element signature="method#setYear#0;class#Date#0" />
+            <element signature="method#getDayOfWeek#0;class#Date#0" />
+            <element signature="method#getNumberOfYearsWeek#0;class#Date#0" />
+            <element signature="method#nextDay#0;class#Date#0" />
+            <element signature="method#nextMonth#0;class#Date#0" />
+            <element signature="method#nextYear#0;class#Date#0" />
+            <element signature="method#addDays#0;class#Date#0" />
+            <element signature="e#4850#4851#0" expanded="true" />
+            <element signature="e#4945#4946#0" expanded="true" />
+            <element signature="method#equals#0;class#Date#0" />
+            <element signature="method#printData#0;class#Date#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson05/task01/DateTestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/exeptions/IllegalDateException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/two/FactorAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson01/PresentationTask/PresentationExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/one/RangeCheckAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/two/ForFactorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/three/TestUpperCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/three/ToUpperCaseAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/five/NoSpaceAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/one/TrueOrFalse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/academy/lesson08/homeWork/lambda/five/SpaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="58" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -934,6 +1140,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
