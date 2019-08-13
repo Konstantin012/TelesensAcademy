@@ -1,12 +1,27 @@
 package com.academy.lesson07.сlassTask.sort.model;
 
+import java.util.Objects;
+
 public class Person implements Comparable<Person> {
+    private long id;
     private int age;
     private String name;
 
     public Person(int age, String name) {
         this.age = age;
         this.name = name;
+    }
+    public Person(long id, int age, String name) {
+        this(age, name);
+        this.id = id;
+    }
+
+    public long getId() {
+        return id;
+    }
+
+    public void setId(long id) {
+        this.id = id;
     }
 
     public int getAge() {
@@ -28,12 +43,13 @@ public class Person implements Comparable<Person> {
     @Override
     public String toString() {
         return "{" +
-                "age=" + age +
+                "id=" + id +
+                ", age=" + age +
                 ", name='" + name + '\'' +
                 '}';
     }
 
-    // Для сортировки
+// Для сортировки
 
     @Override
     public int compareTo(Person other) {
@@ -56,4 +72,20 @@ public class Person implements Comparable<Person> {
 
         return name1.compareTo(name2);
     }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Person person = (Person) o;
+        return id == person.id &&
+                age == person.age &&
+                Objects.equals(name, person.name);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(age, name);
+    }
+
 }
