@@ -1,4 +1,4 @@
-package com.academy.Lesson11;
+package com.academy.lesson11.AbonentHomeTask;
 
 public class Subscriber {
     private Long id;
@@ -7,7 +7,21 @@ public class Subscriber {
     private String gender;
     private int age;
     private String phoneNumber;
-    private Operator operator;
+    private Operator2 operator;
+
+    public Subscriber(Long id, String firstName, String lastName, String gender, int age, String phoneNumber, Operator2 operator) {
+        this.id = id;
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.gender = gender;
+        this.age = age;
+        this.phoneNumber = phoneNumber;
+        this.operator = operator;
+    }
+    public Subscriber() {
+
+}
+
 
     @Override
     public String toString() {
@@ -22,11 +36,11 @@ public class Subscriber {
                 '}';
     }
 
-    public Operator getOperator() {
+    public Operator2 getOperator() {
         return operator;
     }
 
-    public void setOperator(Operator operator) {
+    public void setOperator(Operator2 operator) {
         this.operator = operator;
     }
 

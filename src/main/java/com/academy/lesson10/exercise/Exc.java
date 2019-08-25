@@ -1,4 +1,4 @@
-package com.academy.Lesson10.exercise;
+package com.academy.lesson10.exercise;
 
 import com.academy.lesson07.сlassTask.sort.model.Person;
 

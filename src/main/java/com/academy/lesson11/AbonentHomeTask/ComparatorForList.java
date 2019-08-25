@@ -1,4 +1,4 @@
-package com.academy.Lesson11;
+package com.academy.lesson11.AbonentHomeTask;
 
 import java.util.Comparator;
 
@@ -6,8 +6,8 @@ import java.util.Comparator;
 public class ComparatorForList implements Comparator<Subscriber> {
     @Override
     public int compare(Subscriber sub1, Subscriber sub2) {
-        String operator1=sub1.getOperator().getName();
-        String operator2=sub2.getOperator().getName();
+        String operator1=sub1.getOperator().getOperator();
+        String operator2=sub2.getOperator().getOperator();
 
         Integer age1 = sub1.getAge();
         Integer age2 = sub2.getAge();
