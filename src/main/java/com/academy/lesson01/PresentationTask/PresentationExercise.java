@@ -30,6 +30,10 @@ public class PresentationExercise {
 
     }
 
+    public void testMetchpd()
+    {
+        Scanner scanner = new Scanner(System.in);
 
+    }
 
 }

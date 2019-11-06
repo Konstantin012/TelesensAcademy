@@ -19,6 +19,7 @@ public class Exc {
         System.out.println("      ");
         System.out.println("Вывод Массива");
         Person[] peopleArray = convertListToArray(list);
+        Person[] peopleArra2y = list.toArray(new Person[]{});
         System.out.println(Arrays.toString(peopleArray));
 
         System.out.println("      ");

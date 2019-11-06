@@ -1,6 +1,7 @@
 package com.academy.lesson02.task02;
 
 import java.util.Scanner;
+import java.util.concurrent.TimeUnit;
 
 public class Square {
 
@@ -10,6 +11,7 @@ public class Square {
         System.out.println("Enter the number: ");
         double number = scn.nextDouble();
         System.out.println(Math.pow(number,index));
+
 
     }
 }
