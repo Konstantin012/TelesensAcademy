@@ -15,7 +15,7 @@ public class Main {
         GameSerialize savedGame = new GameSerialize(territoryInfo, resourcesInfo, diplomacyInfo);
 
         //создаем 2 потока для сериализации объекта и сохранения его в файл
-        FileOutputStream outputStream = new FileOutputStream("C:\\Users\\dmelnik\\Desktopsave.ser");
+        FileOutputStream outputStream = new FileOutputStream("C:\\Users\\daria\\OneDrive\\Desktop\\trash\\save.ser");
         ObjectOutputStream objectOutputStream = new ObjectOutputStream(outputStream);
 
         // сохраняем игру в файл

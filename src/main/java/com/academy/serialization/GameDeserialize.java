@@ -8,7 +8,7 @@ public class GameDeserialize {
 
     public static void main(String[] args) throws IOException, ClassNotFoundException {
 
-        FileInputStream fileInputStream = new FileInputStream("C:\\Users\\Username\\Desktop\\save.ser");
+        FileInputStream fileInputStream = new FileInputStream("C:\\Users\\daria\\OneDrive\\Desktop\\trash\\save.ser");
         ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream);
 
         GameSerialize savedGame = (GameSerialize) objectInputStream.readObject();
